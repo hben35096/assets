@@ -1,0 +1,2 @@
+# assets
+Ultralytics Assets Repository
